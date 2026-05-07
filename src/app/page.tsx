@@ -71,7 +71,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg?_wi=1"
     />
   </div>
 
@@ -95,7 +95,7 @@ export default function LandingPage() {
           description: "Golden lighting and ambient elegance.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -116,21 +116,21 @@ export default function LandingPage() {
           title: "Premium Service",
           description: "Seamless, attentive, and professional.",
           buttonIcon: "Award",
-          imageSrc: "http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg?_wi=2",
           imageAlt: "Medium fried pieces of meat and fried onions",
         },
         {
           title: "Consistent Quality",
           description: "High standards in every dish.",
           buttonIcon: "Star",
-          imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg?_wi=2",
           imageAlt: "Medium fried pieces of meat and fried onions",
         },
         {
           title: "Elegant Ambiance",
           description: "Perfect for business and family.",
           buttonIcon: "GlassWater",
-          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg?_wi=1",
           imageAlt: "Medium fried pieces of meat and fried onions",
         },
       ]}
@@ -150,7 +150,7 @@ export default function LandingPage() {
           id: "1",
           name: "Tuscany Signature Pasta",
           price: "PKR 3,500",
-          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg?_wi=2",
         },
         {
           id: "2",
