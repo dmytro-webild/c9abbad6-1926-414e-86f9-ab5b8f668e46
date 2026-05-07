@@ -210,13 +210,13 @@ export default function LandingPage() {
       socialLinks={[
         {
           icon: Instagram,
-          href: "https://tuscany.webild.com",          ariaLabel: "Instagram"},
+          href: "https://tuscany.webild.io",          ariaLabel: "Instagram"},
         {
           icon: Facebook,
-          href: "https://tuscany.webild.com",          ariaLabel: "Facebook"},
+          href: "https://tuscany.webild.io",          ariaLabel: "Facebook"},
         {
           icon: Twitter,
-          href: "https://tuscany.webild.com",          ariaLabel: "Twitter"},
+          href: "https://tuscany.webild.io",          ariaLabel: "Twitter"},
       ]}
     />
   </div>
