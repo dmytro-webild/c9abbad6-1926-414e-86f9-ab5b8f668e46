@@ -57,7 +57,7 @@ export default function LandingPage() {
         {
           text: "Reserve Your Table",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg?_wi=1"
     />
   </div>
 
@@ -75,7 +75,7 @@ export default function LandingPage() {
         {
           title: "Curated Atmosphere",          description: "Golden lighting and ambient elegance."},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -90,13 +90,13 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/medium-fried-pieces-meat-fried-onions_140725-3560.jpg",          imageAlt: "Medium fried pieces of meat and fried onions"},
         {
           title: "Premium Service",          description: "Seamless, attentive, and professional.",          buttonIcon: Award,
-          imageSrc: "http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg",          imageAlt: "Medium fried pieces of meat and fried onions"},
+          imageSrc: "http://img.b2bpic.net/free-photo/boiled-coffee-cups-sweets_140725-3711.jpg?_wi=2",          imageAlt: "Medium fried pieces of meat and fried onions"},
         {
           title: "Consistent Quality",          description: "High standards in every dish.",          buttonIcon: Star,
-          imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg",          imageAlt: "Medium fried pieces of meat and fried onions"},
+          imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081867.jpg?_wi=2",          imageAlt: "Medium fried pieces of meat and fried onions"},
         {
           title: "Elegant Ambiance",          description: "Perfect for business and family.",          buttonIcon: GlassWater,
-          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg",          imageAlt: "Medium fried pieces of meat and fried onions"},
+          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg?_wi=1",          imageAlt: "Medium fried pieces of meat and fried onions"},
       ]}
       title="Why Choose Us"
       description="Elevating every detail of your dining experience."
@@ -111,7 +111,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "1",          name: "Tuscany Signature Pasta",          price: "PKR 3,500",          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg"},
+          id: "1",          name: "Tuscany Signature Pasta",          price: "PKR 3,500",          imageSrc: "http://img.b2bpic.net/free-photo/spaghetti-tomato-red-pepper-sauce_114579-2487.jpg?_wi=2"},
         {
           id: "2",          name: "Grilled Premium Fillet",          price: "PKR 5,200",          imageSrc: "http://img.b2bpic.net/free-photo/grilled-meat-decorated-with-vegetables_1303-12325.jpg"},
         {
